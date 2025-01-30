@@ -29,7 +29,7 @@ Cada grupo debe cumplimentar la siguiente tabla:
 |   1   | Apellidos, Nombre       | Apellidos, Nombre   | Apellidos, Nombre  |                |                       |
 |   2   |                         |                     |                    |                |                       |
 
-## Requisitos y criterios<a name="id2"></a>
+## 🚧 🚧 🚧 Requisitos y criterios<a name="id2"></a>
 
 El proyecto se realiza en grupos de dos o tres alumnos/as elegidos por sorteo (cinco grupos de tres y dos grupos de dos). La nota del trabajo será la nota de cada uno de los alumnos.
 
@@ -45,7 +45,7 @@ El Trabajo de Fin de Máster consiste en la realización de un proyecto de Intel
 8. Se debe realizar también una aplicación web que haga uso del modelo entrenado.
 9. Conclusiones. Se expondrán las conclusiones que se han obtenido en la realización del TFM.
 
-## Código y documentación a entregar<a name="id3"></a>
+## 🚧 🚧 🚧 Código y documentación a entregar<a name="id3"></a>
 
 Todo el material debe estar incluido o enlazado en el repositorio del TFM de cada grupo.
 
@@ -59,7 +59,7 @@ El repositorio debe contener lo siguiente:
   * Vídeo de 10 minutos máximo, donde el grupo exponga brevemente su proyecto y muestre su funcionamiento. Es muy importante hacer una introducción diciendo el nombre de la aplicación y de qué trata en una frase, antes de pasar a los detalles técnicos. El vídeo debe estar subido a Youtube y enlazado desde el repositorio de GitHub.
   * Archivo (independiente o texto dentro del README) en el que se indique explícitamente el porcentaje que le corresponde a cada miembro del trabajo realizado de dicho proyecto. En caso de 3 integrantes, el 33% se considerará como 1/3. Deberéis consensuarlo. Os pedimos que seáis justos y coherentes con el trabajo del resto de compañeros.
 
-## 🗓️ Fechas a tener en cuenta<a name="id4"></a>
+## 🚧 🚧 🚧 🗓️ Fechas a tener en cuenta<a name="id4"></a>
 
 * Sorteo de parejas y explicación del TFM: miércoles 31 de enero de 2024
 * Comienzo del proyecto: lunes 5 de febrero de 2024
@@ -69,7 +69,7 @@ El repositorio debe contener lo siguiente:
 * Exposiciones generales: jueves 7 de marzo de 2024
 * Exposiciones para Accenture: por determinar
 
-## ⏰ Cuadrante horario de las exposiciones<a name="id5"></a>
+## 🚧 🚧 🚧 ⏰ Cuadrante horario de las exposiciones<a name="id5"></a>
 
 La duración de cada exposición será de 20 minutos (15 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. Todos los alumnos deberán estar presentes desde las 9:15h
 
