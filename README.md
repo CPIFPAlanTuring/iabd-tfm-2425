@@ -33,7 +33,11 @@ Cada grupo debe cumplimentar la siguiente tabla:
 
 El proyecto se realiza en grupos de dos o tres alumnos/as elegidos por sorteo (cinco grupos de tres y dos grupos de dos). La nota del trabajo será la nota de cada uno de los alumnos.
 
-El Trabajo de Fin de Máster consiste en la realización de un proyecto de Inteligencia Artificial y Big Data que incluya los siguientes apartados:
+El Trabajo de Fin de Máster consiste en la realización de un proyecto de Inteligencia Artificial y Big Data en el que se aplicaquen los conocimientos adquiridos durante el curso a un caso de uso real.
+
+Además de las herramientas y tecnologías estudiadas durante la formación, el alumnado puede hacer uso de técnicas y/o aplicaciones novedosas que no se hayan visto en clase. Esto no exhime del cumplimiento de ninguno de los requisitos que se detallan más abajo.
+
+Se deben incluir los siguientes apartados:
 
 1. Justificación y descripción del proyecto.
 2. Obtención de datos. Se debe especificar la fuente de los datos. Se indicará por qué medios se han obtenido (encuestas, sensores, scrapping, etc.). Los datos se deben cargar en una estructura que permita su posterior manipulación y uso.
