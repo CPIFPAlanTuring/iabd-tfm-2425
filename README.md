@@ -88,6 +88,7 @@ La duración de cada exposición será de 20 minutos (15 de exposición y 5 de p
 <hr>
  🥪 D E S A Y U N O ☕
 <hr>
+
 * 11:30h - 11:50h - Grupo 5
 * 11:55h - 12:15h - Grupo 6
 * 12:20h - 12:40h - Grupo 7
