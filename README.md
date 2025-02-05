@@ -70,11 +70,11 @@ El repositorio debe contener lo siguiente:
 * Exposiciones generales: martes 4 de marzo de 2025
 * Exposiciones para Accenture: por determinar (previsiblemente el jueves 6 de marzo)
 
-## 🚧 🚧 🚧 ⏰ Cuadrante horario de las exposiciones<a name="id5"></a>
+## Cuadrante horario de las exposiciones<a name="id5"></a>
 
 La duración de cada exposición será de 20 minutos (15 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. Todos los alumnos deberán estar presentes desde las 9:15h
 
-### :calendar: jueves 7 de marzo de 2024
+### :calendar: martes 4 de marzo de 2025
 
 * 08:30h - 08:50h - Grupo 1
 * 08:55h - 09:15h - Grupo 2
