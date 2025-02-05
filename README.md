@@ -81,17 +81,17 @@ La duración de cada exposición será de 20 minutos (15 de exposición y 5 de p
 
 ### :calendar: martes 4 de marzo de 2025
 
-* 08:30h - 08:50h - Grupo 1
-* 08:55h - 09:15h - Grupo 2
-* 09:20h - 09:40h - Grupo 3
-* 09:45h - 10:05h - Grupo 4
-* 10:10h - 10:30h - Grupo 5
-* 10:35h - 10:55h - Grupo 6
-* 11:00h - 11:20h - Grupo 7
-
+* 09:15h - 09:45h - Grupo 1
+* 09:50h - 10:10h - Grupo 2
+* 10:15h - 10:35h - Grupo 3
+* 10:40h - 11:00h - Grupo 4
 <hr>
-
  🥪 D E S A Y U N O ☕
+<hr>
+* 11:30h - 11:50h - Grupo 5
+* 11:55h - 12:15h - Grupo 6
+* 12:20h - 12:40h - Grupo 7
+
 
 
 
