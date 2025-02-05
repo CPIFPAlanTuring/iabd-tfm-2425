@@ -61,15 +61,14 @@ El repositorio debe contener lo siguiente:
   * Vídeo de 10 minutos máximo, donde el grupo exponga brevemente su proyecto y muestre su funcionamiento. Es muy importante hacer una introducción diciendo el nombre de la aplicación y de qué trata en una frase, antes de pasar a los detalles técnicos. El vídeo debe estar subido a Youtube y enlazado desde el repositorio de GitHub.
   * Archivo (independiente o texto dentro del README) en el que se indique explícitamente el porcentaje que le corresponde a cada miembro del trabajo realizado de dicho proyecto. En caso de 3 integrantes, el 33% se considerará como 1/3. Deberéis consensuarlo. Os pedimos que seáis justos y coherentes con el trabajo del resto de compañeros.
 
-## 🚧 🚧 🚧 🗓️ Fechas a tener en cuenta<a name="id4"></a>
+## Fechas a tener en cuenta<a name="id4"></a>
 
-* Sorteo de parejas y explicación del TFM: miércoles 31 de enero de 2024
-* Comienzo del proyecto: lunes 5 de febrero de 2024
-* Fecha límite de creación del repositorio del TFM con el título, el punto 1 de los requisitos (justificación y descripción) y enlazado en este repositorio-índice: lunes 5 de febrero de 2024
-* Revisión (checkpoint) : lunes 19 de febrero de 2024 (el domingo por la noche debe estar actualizado el repositorio con los últimos cambios).
-* Fecha límite para subir todo el material que se pide sobre el TFM: miércoles 6 de marzo de 2024 a las 23:59h.
-* Exposiciones generales: jueves 7 de marzo de 2024
-* Exposiciones para Accenture: por determinar
+* Sorteo de parejas y explicación del TFM: miércoles 19 de diciembre de 2024.
+* Comienzo del proyecto: lunes 17 de febrero de 2025.
+* Fecha límite de creación del repositorio del TFM con el título, el punto 1 de los requisitos (justificación y descripción) y enlazado en este repositorio-índice: lunes 17 de febrero de 2025.
+* Fecha límite para subir todo el material que se pide sobre el TFM: lunes 3 de marzo de 2025 a las 23:59h.
+* Exposiciones generales: martes 4 de marzo de 2025
+* Exposiciones para Accenture: por determinar (previsiblemente el jueves 6 de marzo)
 
 ## 🚧 🚧 🚧 ⏰ Cuadrante horario de las exposiciones<a name="id5"></a>
 
