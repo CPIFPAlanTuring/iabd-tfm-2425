@@ -99,9 +99,7 @@ Las exposiciones tendrán lugar en las oficinas de Accenture(https://maps.app.go
 
 <img src="https://a.mktgcdn.com/p/rahf5ktEglvh4WE5ZxS7YG1HtX8Bm8YWr0Woq_gB8Og/2560x1779.jpg">
 
-### :calendar: Miércoles 13 de marzo
-
-<img height="52px" src="accenture.svg">
+### 🚧 🚧 🚧 :calendar: Jueves 6 de marzo de 2025 (provisional)
 
 Exposición de los tres mejores TFM a Accenture.
 
