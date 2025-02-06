@@ -6,7 +6,7 @@
 
 # Trabajos Fin de Máster - Curso 2024 / 2025
 
-En este repositorio se encuentra centralizada toda la información relativa a los **Trabajos Fin de Máster del Curso de Especialización en Inteligencia Artificial y Big Data del CPIFP Alan Turing**, en la convocatoria del curso 2023 / 2024.
+En este repositorio se encuentra centralizada toda la información relativa a los **Trabajos Fin de Máster del Curso de Especialización en Inteligencia Artificial y Big Data del CPIFP Alan Turing**, en la convocatoria del curso 2024 / 2025.
 
 ## Índice
 
