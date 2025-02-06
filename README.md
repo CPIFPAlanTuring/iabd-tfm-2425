@@ -122,6 +122,6 @@ Para el alumnado que no haya superado la fase inicial.
 
 ## 📝 Evaluación del TFM<a name="id7"></a>
 
-La nota de cada uno de los alumnos de un grupo es la nota del TFM. Se tendrá en cuenta el porcentaje que cada grupo haya asignado a cada uno de sus integrantes para repartir la calificación.
+Se tendrá en cuenta en la nota el porcentaje que cada grupo haya asignado a cada uno de sus integrantes para repartir la calificación.
 
 Para la elección de los tres mejores proyectos que se expondrán a Accenture se tienen en cuenta los votos de los alumnos de forma individual con un 30% de peso y los votos de los profesores con un 70% de peso. Un alumno no puede votar por su propio equipo.
