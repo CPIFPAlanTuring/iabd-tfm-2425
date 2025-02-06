@@ -28,8 +28,8 @@ Cada grupo debe cumplimentar la siguiente tabla:
 |   2   |                         |                           |                                   |                |                                                |
 |   3   |                         |                           |                                   |                |                                                |
 |   4   | Peralta Muñoz, Hugo     | Ruiz Toledo, Jesús        |  Bravo Casermeiro, Borja          |                |                                                |
-|   5   | García Estévez, Germán  | Pilkington, Natalie       |  Moreno Cerezo, David             |  AsistencIA    | https://github.com/germangarest/TFM-AsistencIA |         
-|   6   |                         |                           |                                   |                |                                                |
+|   5   | García Estévez, Germán  | Pilkington, Natalie       |  Moreno Cerezo, David             |  AsistencIA    | https://github.com/germangarest/TFM-AsistencIA |        
+|   6   | García Estévez, Marcos  | Aceituno Valero, Jesús    |                                   |  Midas         |                                                |
 |   7   |                         |                           |                                   |                |                                                |
 
 ## 🚧 🚧 🚧 Requisitos y criterios<a name="id2"></a>
