@@ -29,7 +29,7 @@ Cada grupo debe cumplimentar la siguiente tabla:
 |   3   | García Antona, José Antonio | Bermúdez Gallego, Oscar              |  Nievas López, Darío              |                |                                                |
 |   4   | Peralta Muñoz, Hugo         | Ruiz Toledo, Jesús                   |  Bravo Casermeiro, Borja          |                |                                                |
 |   5   | García Estévez, Germán      | Pilkington González, Natalie         |  Moreno Cerezo, David             |  AsistencIA    |                                                |        
-|   6   | García Estévez, Marcos      | Aceituno Valero, Jesús               |                                   |  Midas         |                                                |
+|   6   | García Estévez, Marcos      | Aceituno Valero, Jesús               |                                   |  MIDAS         |                                                |
 |   7   |                             |                                      |                                   |                |                                                |
 
 ## 🚧 🚧 🚧 Requisitos y criterios<a name="id2"></a>
