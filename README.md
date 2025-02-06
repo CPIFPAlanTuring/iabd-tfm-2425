@@ -22,15 +22,15 @@ En este repositorio se encuentra centralizada toda la información relativa a lo
 
 Cada grupo debe cumplimentar la siguiente tabla:
 
-| Grupo | Primer integrante       |     Segundo integrante    |         Tercer integrante         | Título del TFM | Enlace al repositorio |
-|:-----:|:-----------------------:|:-------------------------:|:---------------------------------:|:--------------:|:---------------------:|
-|   1   | López Muñoz, Carlos     | Perogil Fernández, Adrián | Fernández Barrionuevo, Alejandro  |                |                       |
-|   2   |                         |                           |                                   |                |                       |
-|   3   |                         |                           |                                   |                |                       |
-|   4   | Peralta Muñoz, Hugo     | Ruiz Toledo, Jesús        |  Bravo Casermeiro, Borja          |                |                       |
-|   5   |                         |                           |                                   |                |                       |
-|   6   |                         |                           |                                   |                |                       |
-|   7   |                         |                           |                                   |                |                       |
+| Grupo | Primer integrante       |     Segundo integrante    |         Tercer integrante         | Título del TFM | Enlace al repositorio                          |
+|:-----:|:-----------------------:|:-------------------------:|:---------------------------------:|:--------------:|:----------------------------------------------:|
+|   1   | López Muñoz, Carlos     | Perogil Fernández, Adrián | Fernández Barrionuevo, Alejandro  |                |                                                |
+|   2   |                         |                           |                                   |                |                                                |
+|   3   |                         |                           |                                   |                |                                                |
+|   4   | Peralta Muñoz, Hugo     | Ruiz Toledo, Jesús        |  Bravo Casermeiro, Borja          |                |                                                |
+|   5   | García Estévez, Germán  | Pilkington, Natalie       |  Moreno Cerezo, David             |  AsistencIA    | https://github.com/germangarest/TFM-AsistencIA |         
+|   6   |                         |                           |                                   |                |                                                |
+|   7   |                         |                           |                                   |                |                                                |
 
 ## 🚧 🚧 🚧 Requisitos y criterios<a name="id2"></a>
 
