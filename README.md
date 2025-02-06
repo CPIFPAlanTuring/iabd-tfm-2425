@@ -27,7 +27,7 @@ Cada grupo debe cumplimentar la siguiente tabla:
 |   1   | López Muñoz, Carlos     | Perogil Fernández, Adrián | Fernández Barrionuevo, Alejandro  |                |                       |
 |   2   |                         |                           |                                   |                |                       |
 |   3   |                         |                           |                                   |                |                       |
-|   4   |                         |                           |                                   |                |                       |
+|   4   | Peralta Muñoz, Hugo     | Ruiz Toledo, Jesús        |  Bravo Casermeiro, Borja          |                |                       |
 |   5   |                         |                           |                                   |                |                       |
 |   6   |                         |                           |                                   |                |                       |
 |   7   |                         |                           |                                   |                |                       |
