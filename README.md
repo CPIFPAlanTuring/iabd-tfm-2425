@@ -22,13 +22,13 @@ En este repositorio se encuentra centralizada toda la información relativa a lo
 
 Cada grupo debe cumplimentar la siguiente tabla:
 
-| Grupo | Primer integrante           |     Segundo integrante               |         Tercer integrante         | Título del TFM | Enlace al repositorio                          |
+| Grupo | Primer integrante           |     Segundo integrante               |         Tercer integrante         | Título del TFM |            Enlace al repositorio               |
 |:-----:|:---------------------------:|:------------------------------------:|:---------------------------------:|:--------------:|:----------------------------------------------:|
 |   1   | López Muñoz, Carlos         | Perogil Fernández, Adrián            |  Fernández Barrionuevo, Alejandro |                |                                                |
 |   2   | Ramírez Vaquero, Daniel     | Del Rosal Aguirre, Tristán Enrique   |  Mata Rodríguez, Yeray            |                |                                                |
 |   3   | García Antona, José Antonio | Bermúdez Gallego, Oscar              |  Nievas López, Darío              |                |                                                |
 |   4   | Peralta Muñoz, Hugo         | Ruiz Toledo, Jesús                   |  Bravo Casermeiro, Borja          |                |                                                |
-|   5   | García Estévez, Germán      | Pilkington, Natalie                  |  Moreno Cerezo, David             |  AsistencIA    | https://github.com/germangarest/TFM-AsistencIA |        
+|   5   | García Estévez, Germán      | Pilkington González, Natalie         |  Moreno Cerezo, David             |  AsistencIA    |                                                |        
 |   6   | García Estévez, Marcos      | Aceituno Valero, Jesús               |                                   |  Midas         |                                                |
 |   7   |                             |                                      |                                   |                |                                                |
 
