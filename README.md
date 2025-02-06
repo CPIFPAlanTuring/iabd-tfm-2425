@@ -109,7 +109,9 @@ La duración de cada exposición será de 20 minutos (15 de exposición y 5 o 10
 * 12:20h - 12:40h 🏅 Grupo seleccionado 2
 * 12:40h - 13:00h 🏅 Grupo seleccionado 3
 
-## 🗓️ PERIODO EXTRAORDINARIO: Fechas a tener en cuenta<a name="id4"></a>
+## 🗓️  🚧 🚧 🚧 🚧 🏗️ 👷‍♂️ PERIODO EXTRAORDINARIO: Fechas a tener en cuenta<a name="id4"></a>
+
+Para el alumnado que no haya superado la fase inicial.
 
 * Comienzo del proyecto: lunes 18 de marzo de 2024
 * Fecha límite de creación del repositorio del TFM con el título, el punto 1 de los requisitos (justificación y descripción) y enlazado en este repositorio-índice: lunes 18 de marzo de 2024
