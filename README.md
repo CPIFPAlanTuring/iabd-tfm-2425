@@ -50,7 +50,7 @@ Se deben incluir los siguientes apartados:
 
 Se pueden usar modelos preentrenados para alguna/s sección/es del trabajo. Pero eso no exhime de la preparación, entrenamiento y uso de modelos de ML como se ha visto en clase.
 
-## 🚧 🚧 🚧 Código y documentación a entregar<a name="id3"></a>
+## Código y documentación a entregar<a name="id3"></a>
 
 Todo el material debe estar incluido o enlazado en el repositorio del TFM de cada grupo.
 
