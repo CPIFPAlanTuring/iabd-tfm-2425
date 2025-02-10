@@ -1,7 +1,3 @@
-# 🚧 🚧 🚧 🚧 🏗️ 👷‍♂️ 👷‍♀️ 🧰 🚧 🚧 🚧 🚧
-
-**IMPORTANTE**: Esta página está en construcción. La información aquí presentada no es definitiva.
-
 <img height="80px" src="img/alan_turing_recortado.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="64px" src="img/accenture.svg">
 
 # Trabajos Fin de Máster - Curso 2024 / 2025
@@ -32,11 +28,11 @@ Cada grupo debe cumplimentar la siguiente tabla:
 |   6   | García Estévez, Marcos      | Aceituno Valero, Jesús               |                                   |  MIDAS         |                                                |
 |   7   | García Muñoz, Pablo         | Andrades Bueno, Jairo                |                                   |                |                                                |
 
-## 🚧 🚧 🚧 Requisitos y criterios<a name="id2"></a>
+## Requisitos y criterios<a name="id2"></a>
 
 El proyecto se realiza en grupos de dos o tres alumnos/as elegidos por sorteo (cinco grupos de tres y dos grupos de dos). La nota del trabajo será la nota de cada uno de los alumnos.
 
-El Trabajo de Fin de Máster consiste en la realización de un proyecto de Inteligencia Artificial y Big Data en el que se aplicaquen los conocimientos adquiridos durante el curso a un caso de uso real.
+El Trabajo de Fin de Máster consiste en la realización de un proyecto de Inteligencia Artificial y Big Data en el que se apliquen los conocimientos adquiridos durante el curso a un caso de uso real.
 
 Además de las herramientas y tecnologías estudiadas durante la formación, el alumnado puede hacer uso de técnicas y/o aplicaciones novedosas que no se hayan visto en clase. Esto no exhime del cumplimiento de ninguno de los requisitos que se detallan más abajo.
 
@@ -51,6 +47,8 @@ Se deben incluir los siguientes apartados:
 7. Se tiene que incluir alguna de las técnicas estudiadas en el tema de Procesamiento de Lenguaje Natural: expresiones regulares, tokenización, generación de texto, análisis de sentimientos, etc.
 8. Se debe realizar también una aplicación web que haga uso del modelo entrenado.
 9. Conclusiones. Se expondrán las conclusiones que se han obtenido en la realización del TFM.
+
+Se pueden usar modelos preentrenados para alguna/s sección/es del trabajo. Pero eso no exhime de la preparación, entrenamiento y uso de modelos de ML como se ha visto en clase.
 
 ## 🚧 🚧 🚧 Código y documentación a entregar<a name="id3"></a>
 
