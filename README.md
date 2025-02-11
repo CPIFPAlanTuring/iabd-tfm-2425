@@ -24,7 +24,7 @@ Cada grupo debe cumplimentar la siguiente tabla:
 |   2   | Ramírez Vaquero, Daniel     | Del Rosal Aguirre, Tristán Enrique   |  Mata Rodríguez, Yeray            |  TradeMind     | [Enlace 🌐](https://github.com/DaniRamirezVaquero/TradeMind)        |
 |   3   | García Antona, José Antonio | Bermúdez Gallego, Oscar              |  Nievas López, Darío              |                |                                                                      |
 |   4   | Peralta Muñoz, Hugo         | Ruiz Toledo, Jesús                   |  Bravo Casermeiro, Borja          |                |                                                                      |
-|   5   | García Estévez, Germán      | Pilkington González, Natalie         |  Moreno Cerezo, David             |  AsistencIA    | [Enlace al repo 🚨](https://github.com/germangarest/TFM-AsistencIA) |        
+|   5   | García Estévez, Germán      | Pilkington González, Natalie         |  Moreno Cerezo, David             |  AsistencIA    | [Enlace 🚨](https://github.com/germangarest/TFM-AsistencIA)         |        
 |   6   | García Estévez, Marcos      | Aceituno Valero, Jesús               |                                   |  MIDAS         |                                                                      |
 |   7   | García Muñoz, Pablo         | Andrades Bueno, Jairo                |                                   |                |                                                                      |
 
