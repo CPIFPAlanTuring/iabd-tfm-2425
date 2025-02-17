@@ -25,7 +25,7 @@ Cada grupo debe cumplimentar la siguiente tabla:
 |   3   | García Antona, José Antonio | Bermúdez Gallego, Oscar              |  Nievas López, Darío              |                |                                                                      |
 |   4   | Peralta Muñoz, Hugo         | Ruiz Toledo, Jesús                   |  Bravo Casermeiro, Borja          |  VisionRL      | [Enlace 📌](https://github.com/Pykoncio/VisionRL)                    |
 |   5   | García Estévez, Germán      | Pilkington González, Natalie         |  Moreno Cerezo, David             |  AsistencIA    | [Enlace 🚨](https://github.com/germangarest/TFM-AsistencIA)         |        
-|   6   | García Estévez, Marcos      | Aceituno Valero, Jesús               |                                   |  MIDAS         |                                                                      |
+|   6   | García Estévez, Marcos      | Aceituno Valero, Jesús               |                                   |  MIDAS         | [Enlace 🪙](https://github.com/warc0s/MIDAS)                        |
 |   7   | García Muñoz, Pablo         | Andrades Bueno, Jairo                |                                   |                |                                                                      |
 
 ## Requisitos y criterios<a name="id2"></a>
