@@ -24,7 +24,7 @@ Cada grupo debe cumplimentar la siguiente tabla:
 |   2   | Ramírez Vaquero, Daniel     | Del Rosal Aguirre, Tristán Enrique   |  Mata Rodríguez, Yeray            |  TradeMind     | [Enlace 🌐](https://github.com/DaniRamirezVaquero/TradeMind)        |
 |   3   | García Antona, José Antonio | Bermúdez Gallego, Oscar              |  Nievas López, Darío              |  Proyecto Traductor de Audio | [Enlace 🔊](https://github.com/OscarBermudez38/tfm)   |
 |   4   | Peralta Muñoz, Hugo         | Ruiz Toledo, Jesús                   |  Bravo Casermeiro, Borja          |  MentorAI      | [Enlace 📌](https://github.com/Pykoncio/VisionRL)                   |
-|   5   | García Estévez, Germán      | Moreno Cerezo, David                                                     |  AsistencIA    | [Enlace 🚨](https://github.com/germangarest/TFM-AsistencIA)         |        
+|   5   | García Estévez, Germán      | Moreno Cerezo, David                 |                                   |  AsistencIA    | [Enlace 🚨](https://github.com/germangarest/TFM-AsistencIA)         |        
 |   6   | García Estévez, Marcos      | Aceituno Valero, Jesús               |                                   |  MIDAS         | [Enlace 🪙](https://github.com/warc0s/MIDAS)                        |
 |   7   | García Muñoz, Pablo         | Andrades Bueno, Jairo                |                                   |  ButterflAI    | [Enlace 🦋](https://github.com/PabloGM1204/ButterflAI)              |
 
