@@ -27,7 +27,7 @@ Cada grupo debe cumplimentar la siguiente tabla:
 |   5   | García Estévez, Germán      | Moreno Cerezo, David                 |                                   |  AsistencIA    | [Enlace 🚨](https://github.com/germangarest/TFM-AsistencIA)         |        
 |   6   | García Estévez, Marcos      | Aceituno Valero, Jesús               |                                   |  MIDAS         | [Enlace 🪙](https://github.com/warc0s/MIDAS)                        |
 |   7   | García Muñoz, Pablo         | Andrades Bueno, Jairo                |                                   |  ButterflAI    | [Enlace 🦋](https://github.com/PabloGM1204/ButterflAI)              |
-|   8   | Pilkington González, Natalie|                  |                   |                                   |  BrainSight-AI | [Enlace 🦋](https://github.com/napilkington/BrainSight-AI)          |
+
 
 ## Requisitos y criterios<a name="id2"></a>
 
