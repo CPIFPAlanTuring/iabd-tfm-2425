@@ -90,6 +90,7 @@ La duración de cada exposición será de 20 minutos (15 de exposición y 5 de p
 * 11:15h - 11:45h - 🥪 D E S A Y U N O ☕
 * 11:45h - 12:05h - Grupo 6
 * 12:10h - 12:30h - Grupo 7
+* 12:35h - 12:55h - Grupo 8
 
 
 ## 📍 Lugar de las exposiciones<a name="id6"></a>
@@ -98,26 +99,30 @@ Las exposiciones tendrán lugar en las oficinas de Accenture(https://maps.app.go
 
 <img src="https://a.mktgcdn.com/p/rahf5ktEglvh4WE5ZxS7YG1HtX8Bm8YWr0Woq_gB8Og/2560x1779.jpg">
 
-### 🚧 🚧 🚧 :calendar: Jueves 6 de marzo de 2025 (provisional)
+### :calendar: Jueves 6 de marzo de 2025
 
 Exposición de los tres mejores TFM a Accenture.
 
 La duración de cada exposición será de 20 minutos (15 de exposición y 5 o 10 de preguntas). 
 
-* 12:00h - 12:20h 🏅 Grupo seleccionado 1
-* 12:20h - 12:40h 🏅 Grupo seleccionado 2
-* 12:40h - 13:00h 🏅 Grupo seleccionado 3
+* 11:00h - 11:20h 🏅 Grupo seleccionado 1
+* 11:20h - 11:40h 🏅 Grupo seleccionado 2
+* 11:40h - 12:00h 🏅 Grupo seleccionado 3
 
-## 🗓️  🚧 🚧 🚧 🚧 🏗️ 👷‍♂️ PERIODO EXTRAORDINARIO: Fechas a tener en cuenta<a name="id4"></a>
+## 🗓️  🚧 🏗️ 👷‍♂️ PERIODO EXTRAORDINARIO: Fechas a tener en cuenta<a name="id4"></a>
 
 Para el alumnado que no haya superado la fase inicial.
 
-* Comienzo del proyecto: lunes 18 de marzo de 2024
-* Fecha límite de creación del repositorio del TFM con el título, el punto 1 de los requisitos (justificación y descripción) y enlazado en este repositorio-índice: lunes 18 de marzo de 2024
-* Revisión (checkpoint) : lunes 8 de abril de 2024 (el domingo por la noche debe estar actualizado el repositorio con los últimos cambios).
-* Fecha límite para subir todo el material que se pide sobre el TFM: domingo 16 de junio de 2024 a las 23:59h.
-* Exposiciones generales: lunes 17 de junio de 2024 a las 12:00h.
-* Duración: 10 minutos.
+* Comienzo del proyecto: lunes 17 de marzo de 2025
+* Fecha límite de creación del repositorio del TFM con el título, el punto 1 de los requisitos (justificación y descripción) y enlazado en este repositorio-índice: lunes 17 de marzo de 2025
+* Revisión (checkpoint) : 🚧 por determinar 🚧
+* Fecha límite para subir todo el material que se pide sobre el TFM: 🚧 por determinar 🚧
+* Exposiciones generales: 🚧 por determinar 🚧
+* Duración: 20 minutos.
+
+| Nombre completo           |  Título del TFM |    Enlace al repositorio    |
+|:-------------------------:|:--------------:|:----------------------------:|
+| Apellidos, Nombre         |    Título      |       [Enlace]()             |
 
 ## 📝 Evaluación del TFM<a name="id7"></a>
 
