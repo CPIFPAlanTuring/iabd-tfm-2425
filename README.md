@@ -122,7 +122,7 @@ Para el alumnado que no haya superado la fase inicial.
 
 | Nombre completo           |  Título del TFM |    Enlace al repositorio    |
 |:-------------------------:|:--------------:|:----------------------------:|
-| Sánchez Martínez José     |    WineScan    |       [Enlace]()             |
+| Sánchez Martínez José     |    WineScan    |       [Enlace](https://github.com/jimmysm1995/wine-label-scanner)             |
 
 ## 📝 Evaluación del TFM<a name="id7"></a>
 
