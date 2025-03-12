@@ -122,7 +122,7 @@ Para el alumnado que no haya superado la fase inicial.
 
 | Nombre completo           |  Título del TFM |    Enlace al repositorio    |
 |:-------------------------:|:--------------:|:----------------------------:|
-| Apellidos, Nombre         |    Título      |       [Enlace]()             |
+| Sánchez Martínez José     |    WineScan    |       [Enlace]()             |
 
 ## 📝 Evaluación del TFM<a name="id7"></a>
 
