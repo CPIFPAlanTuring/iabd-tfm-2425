@@ -115,9 +115,8 @@ Para el alumnado que no haya superado la fase inicial.
 
 * Comienzo del proyecto: lunes 17 de marzo de 2025
 * Fecha límite de creación del repositorio del TFM con el título, el punto 1 de los requisitos (justificación y descripción) y enlazado en este repositorio-índice: lunes 17 de marzo de 2025
-* Revisión (checkpoint) : 🚧 por determinar 🚧
-* Fecha límite para subir todo el material que se pide sobre el TFM: 🚧 por determinar 🚧
-* Exposiciones generales: 🚧 por determinar 🚧
+* Fecha límite para subir todo el material que se pide sobre el TFM: domingo 25 de mayo de 2025 a las 23:59h
+* Exposiciones generales: lunes 26 de mayo a las 12:45h
 * Duración: 20 minutos.
 
 | Nombre completo           |  Título del TFM |    Enlace al repositorio    |
